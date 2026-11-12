@@ -25,7 +25,7 @@ actix-web-httpauth = "0.8"
 alphanumeric-sort = "1"
 anyhow = "1"
 atty = "0.2"
-bytesize = "1"
+bytesize = "2"
 chrono = "0.4"
 chrono-humanize = "0.2"
 clap = { version = "3.2", features = ["derive", "cargo", "wrap_help"] }
